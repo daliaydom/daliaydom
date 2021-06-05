@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @daliaydom
+- 👋 Hi, I’m Dalia Yvette Domínguez Jiménez (@daliaydom)
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on data science projects
